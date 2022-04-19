@@ -3,9 +3,10 @@
 /* */
 
 
-
 // index.js
 // This is the main entry point of our application
+
+
 
 require('dotenv').config();
 const db = require('./db');
